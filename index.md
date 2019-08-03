@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+<html>
+	<head>
+	<title>starbuzz coffee beverages</title>
+	<style type= "text/css">
+	body{
+	background-color:#d2b48c;
+	margin-left:20%;
+	boder:2px dotted black;
+	padding:10px 10px 10px 10px;
+	font-family:sans serifs;
+	}
+	</style>
+	</head>
+	<body>
+		<h2>house blend, $1.49</h2>
+		<p id="houseblend">A smooth,mild blend of coffees from Mexico,bolivia and Guatemala.</p>
 
-You can use the [editor on GitHub](https://github.com/hisharetheone/hisharetheone.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+		<h2>moch cafe latte,$2.35</h2>
+		<p>espresso,steamed milk and chocolate styrup.</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+		<h2>coppuccino,$1.89</h2>
+		<p>Amixture of espress,steamed  milk and foam .</p>
 
-### Markdown
+		<h2>Chai Tea,$1.85</h2>
+		<p>A spicy drink made with black tea,spices,mlik and honey.</p>
+		<p>
+		Read more <a href="mission.html" title="Read more about tarbuzz coffee important mission">about our Mission</a>
+		</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hisharetheone/hisharetheone.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+		<p>好厉害
+		<img class="normal" width="10%" data-loadfunc=0 src="https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=2134232652,2576451525&amp;fm=173&amp;s=BA819D47CC0A505D1E91888003003093&amp;w=368&amp;h=304&amp;img.PEG" data-loaded=0 / alt="The typical new pencial.">
+		 <img src="lounge/images/blue.jpg" "width=500""high=500"alt="The typical new pencial.">
+		</p>
+	</body>
+</html>
